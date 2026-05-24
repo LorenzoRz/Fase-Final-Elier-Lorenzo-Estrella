@@ -4,12 +4,13 @@ Grupo: 213022
 Programa: Ingenieria de Sistemas
 Código Fuente: Auditoria Propia
 """
+# Definimos el arreglo de los cinco productos y sus caracteristicas.
 
 inventario = [
-    ["001", "Telefono", 10, 10],
-    ["002", "Portatil", 10, 10],
+    ["001", "Telefono", 8, 10],
+    ["002", "Portatil", 7, 10],
     ["003", "Lampara", 10, 10],
-    ["004", "Teclados", 10, 10],
+    ["004", "Teclados", 6, 10],
     ["005", "Microhondas", 10, 10]
 ]
 
